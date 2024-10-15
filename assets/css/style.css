@@ -1,0 +1,58 @@
+body {
+  max-width: 700px;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+p {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+header div {
+  text-align: center;
+}
+
+header button {
+  margin-bottom: 1.5em;
+}
+
+ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+ol {
+  margin-left: 2em;
+  margin-top: 2em;
+  list-style-type: decimal;
+}
+
+footer {
+  width: 100%;
+  border-top: 1px solid #e0e0e0;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  text-align: center;
+}
+
+.special-text {
+  color: red;
+}
