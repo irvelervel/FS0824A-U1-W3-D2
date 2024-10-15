@@ -56,3 +56,20 @@ footer {
 .special-text {
   color: red;
 }
+
+.bigger {
+  font-size: 120%;
+}
+
+.colored {
+  color: purple;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.special-p {
+  font-size: 1.1em;
+  font-weight: bold;
+}
